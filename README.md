@@ -5,7 +5,7 @@
 > Expected: number input → "Even" or "Odd"
 - [x] Grade calculator
 > Expected: marks input → 90+ A, 80+ B, 60+ C, else D
-- [ ] Simple interest calculator
+- [x] Simple interest calculator
 > Expected: principal, rate, time input → SI = (PRT)/100
 - [ ] Temperature converter (Celsius to Fahrenheit)
 > Expected: C input → F = (C * 9/5) + 32
