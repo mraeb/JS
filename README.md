@@ -7,5 +7,5 @@
 > Expected: marks input → 90+ A, 80+ B, 60+ C, else D
 - [x] Simple interest calculator
 > Expected: principal, rate, time input → SI = (PRT)/100
-- [ ] Temperature converter (Celsius to Fahrenheit)
+- [x] Temperature converter (Celsius to Fahrenheit)
 > Expected: C input → F = (C * 9/5) + 32
