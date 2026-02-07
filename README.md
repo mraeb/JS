@@ -1,4 +1,4 @@
-# JavaScript Practice Progress
+### JavaScript Practice Progress
 - [x] Sum of two numbers (user input)
 > Expected: prompt-ல 2 numbers கேட்டு sum console-ல காட்டு
 - [ ] Even or Odd checker
