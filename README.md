@@ -14,3 +14,11 @@
 > Expected: C input → F = (C * 9/5) + 32
 
 ----
+
+🧠 JavaScript Practice Questions
+🟢 Level 1 — Basics (Syntax + DOM)
+- [ ] Create a variable name and show it inside a <p> tag using JavaScript.
+- [ ] Write a button that changes the background color when clicked.
+- [ ] Get value from an <input> and display it using textContent.
+- [ ] Write a script that prints numbers 1 to 10 in console.
+- [ ] Create a function greet() that shows Hello mraeb.
